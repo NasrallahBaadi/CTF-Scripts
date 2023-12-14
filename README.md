@@ -1,2 +1,2 @@
-# TryHackMe-Scripts
-Scripts used to solve some rooms on TryHackMe
+# CTF-Scripts
+Scripts I wrote to solve different CTF challenges.
